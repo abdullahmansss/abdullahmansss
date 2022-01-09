@@ -42,27 +42,48 @@ Zadcall allows you to call experts directly through the numbers they have listed
 - android : https://play.google.com/store/apps/details?id=com.zadcall.app
 - ios : https://apps.apple.com/app/id1525329429 
 ----------------------------------------------------
-Discy
+### Discy
+
+Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
+
 - android : https://play.google.com/store/apps/details?id=app.ask.application
 - ios : https://apps.apple.com/eg/app/discy/id1535374585 
 ----------------------------------------------------
-Kermalk
+### Kermalk
+
+Kermalk is the first smart rewards platform in Saudi Arabia that offers you instant rewards with every visit to your favorite places. And as we greatly appreciate your visit, the sooner your return, the better offers you will get!<br />
+
 - android : https://play.google.com/store/apps/details?id=com.intcore.kermalk.android
 - ios : https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865 
 ----------------------------------------------------
-Zey
+### Zey
+
+Hey there, fashion enthusiasts! Zey App is the new way to shop your favorite medical brands in a very smooth way! Get your hands first on the latest collections from 200+ products like Scrubs, Lab Coats, Accessories, and more.<br />
+Shop on-the-go, on-the-run, on-the-move, when you download our app and have the latest trends in medical clothing at your fingertips!<br />
+
 - android : https://play.google.com/store/apps/details?id=com.zeymc.zeymc
 - ios : https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746 
 ----------------------------------------------------
-Askme
+### Askme
+
+Ask Me is an official application of Ask Me WordPress Themes on Envato Marketplace.<br />
+
 - anroid : https://play.google.com/store/apps/details?id=com.askme.application
 - ios : https://apps.apple.com/eg/app/ask-me-application/id1542559413 
 ----------------------------------------------------
-Modarsa
+### Modarsa
+
+The Madrasa system is a service that allows learning forensic science in an innovative way that aims to benefit from scholars ’lessons and convert them into continuous educational courses while providing supportive options, through a set of services provided on the lesson page.<br />
+
 - android : https://play.google.com/store/apps/details?id=softagi.ss.sc
 - ios : https://apps.apple.com/eg/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%D8%A9/id1521184770 
 ----------------------------------------------------
-Children
+### Children
+
+The standardization platform is: an electronic platform concerned with publishing the greatest duty that God has commanded us, which is to standardize it.<br />
+And implanting it in the hearts of Muslims and calling them to achieve it, addresses the various Sunni stages, starting from
+Childhood and for young people as well as the elderly of all levels of education.<br />
+
 - android : https://play.google.com/store/apps/details?id=org.mdarsa.kids
 - ios : https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013
 <!--
