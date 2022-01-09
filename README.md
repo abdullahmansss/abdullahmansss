@@ -47,12 +47,26 @@ Zadcall allows you to call experts directly through the numbers they have listed
 - android : https://play.google.com/store/apps/details?id=com.zadcall.app
 - ios : https://apps.apple.com/app/id1525329429 
 ----------------------------------------------------
+### AppBear
+
+AppBear is a News and Social Network Application.<br />
+
+- android : https://play.google.com/store/apps/details?id=io.appbear.application
+- ios : https://apps.apple.com/eg/app/appbear/id1548685005
+----------------------------------------------------
 ### Discy
 
 Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
 
 - android : https://play.google.com/store/apps/details?id=app.ask.application
 - ios : https://apps.apple.com/eg/app/discy/id1535374585 
+----------------------------------------------------
+### DaShop
+
+All the tools you need to build a successful store, own a professional store with minimal costs and no commission on sales.<br />
+
+- android : https://play.google.com/store/apps/details?id=com.dashop.app
+- ios : https://apps.apple.com/eg/app/dashop/id1564735827
 ----------------------------------------------------
 ### Kermalk
 
