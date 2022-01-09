@@ -12,8 +12,8 @@
 ### Contact with me on
 
 - whatsApp for bussines : http://Wa.me/201028205960
-- email1 : abdullah@mansouracademy.net
-- email 2 : abdullah.mansour97@gmail.com
+- business email : abdullah@mansouracademy.net
+- personal email : abdullah.mansour97@gmail.com
 - facebook : https://www.facebook.com/abdullahmanss
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
