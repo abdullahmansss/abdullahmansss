@@ -8,12 +8,12 @@
 ### Samples from my projects
 
 Zadcall
- - android : https://play.google.com/store/apps/details?id=com.zadcall.app
- - Ios : https://apps.apple.com/app/id1525329429 
-
+- android : https://play.google.com/store/apps/details?id=com.zadcall.app
+- ios : https://apps.apple.com/app/id1525329429 
+----------------------------------------------------
 Discy
-android : https://play.google.com/store/apps/details?id=app.ask.application
-Ios : https://apps.apple.com/eg/app/discy/id1535374585 
+- android : https://play.google.com/store/apps/details?id=app.ask.application
+- ios : https://apps.apple.com/eg/app/discy/id1535374585 
 
 Kermalk
 android : https://play.google.com/store/apps/details?id=com.intcore.kermalk.android
