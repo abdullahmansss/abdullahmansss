@@ -1,5 +1,7 @@
 <h1> Hi there, I'm Abdullah Mansour 👋:heart: </h1>
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 - IT Entrepreneur
 - Specialist Software Engineer
 - Software Instructor
