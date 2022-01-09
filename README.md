@@ -5,10 +5,15 @@
 - Software Instructor
 - More than 40k student around the world
 ----------------------------------------------------
+### Udemy :
+- account : https://www.udemy.com/user/abdullah-mansour-3
+- flutter course : https://www.udemy.com/course/complete-flutter-arabic
+----------------------------------------------------
 ### Contact with me on
 
 - email : abdullah@mansouracademy.net
-- LinkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
+- facebook : https://www.facebook.com/abdullahmanss
+- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
 - youtube channel : https://www.youtube.com/AbdullahMansourAli
 ----------------------------------------------------
