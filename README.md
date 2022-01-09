@@ -27,8 +27,9 @@
 ### Medical Empire
 Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
 Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-- android : https://play.google.com/store/apps/details?id=com.medicalempire.medical
-- ios : https://apps.apple.com/us/app/medical-empire/id1465106135
+<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+<!-- - android : https://play.google.com/store/apps/details?id=com.medicalempire.medical
+- ios : https://apps.apple.com/us/app/medical-empire/id1465106135 -->
 ----------------------------------------------------
 ### Fosha
 
