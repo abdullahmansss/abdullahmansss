@@ -11,7 +11,8 @@
 ----------------------------------------------------
 ### Contact with me on
 
-- email : abdullah@mansouracademy.net
+- email1 : abdullah@mansouracademy.net
+- email 2 : abdullah.mansour97@gmail.com
 - facebook : https://www.facebook.com/abdullahmanss
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
