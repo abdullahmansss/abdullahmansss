@@ -8,8 +8,8 @@
 ### Samples from my projects
 
 - Zadcall
-android : https://play.google.com/store/apps/details?id=com.zadcall.app
-Ios : https://apps.apple.com/app/id1525329429 
+ - android : https://play.google.com/store/apps/details?id=com.zadcall.app
+ - Ios : https://apps.apple.com/app/id1525329429 
 
 Discy
 android : https://play.google.com/store/apps/details?id=app.ask.application
