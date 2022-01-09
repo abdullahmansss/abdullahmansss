@@ -37,9 +37,13 @@ Medicalempire.com Provides you a reliable shopping experience in one place with 
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
 Discover trips, activities & events created for you by passionate locals.<br />
-- android : https://play.google.com/store/apps/details?id=com.fosha.app
-- ios : https://apps.apple.com/us/app/fosha/id1600031499
-----------------------------------------------------
+
+<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
+- ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
+<hr>
+
 ### Zadcall
 
 Zadcall help you get in touch with experts in many fields through voice calls or video calls.<br />
