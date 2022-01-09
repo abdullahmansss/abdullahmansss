@@ -17,13 +17,16 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- whatsApp for bussines : http://Wa.me/201028205960
+<p><a href="https://www.facebook.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullah-mansour-346516159" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abdullah-mansour-346516159" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-8a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a><p>
+
+
+<!-- - whatsApp for bussines : http://Wa.me/201028205960
 - business email : abdullah@mansouracademy.net
 - personal email : abdullah.mansour97@gmail.com
 - facebook : https://www.facebook.com/abdullahmanss
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli
+- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
 
 <h1> Samples from my projects </h1>
