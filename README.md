@@ -4,7 +4,7 @@
 - Specialist Software Engineer
 - Software Instructor
 - More than 40k student around the world
-
+----------------------------------------------------
 ### Samples from my projects
 
 Zadcall
