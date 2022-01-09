@@ -8,13 +8,13 @@
 - More than 40k student around the world
 <hr>
 
-<h1> Udemy </h1>
+<h2> Udemy </h2>
 
 - account : https://www.udemy.com/user/abdullah-mansour-3
 - flutter course [in arabic] : https://www.udemy.com/course/complete-flutter-arabic
 <hr>
 
-<h1> Contact with me on </h1>
+<h2> Contact with me on </h2>
 
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
@@ -35,7 +35,7 @@
 - youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
 
-<h1> Samples from my projects </h1>
+<h2> Samples from my projects </h2>
 
 ### Medical Empire
 Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
