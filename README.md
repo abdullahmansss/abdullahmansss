@@ -19,7 +19,9 @@
 ----------------------------------------------------
 ### Samples from my projects
 
-Medical Empire
+### Medical Empire
+Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.__
+Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.__
 - android : https://play.google.com/store/apps/details?id=com.medicalempire.medical
 - ios : https://apps.apple.com/us/app/medical-empire/id1465106135
 ----------------------------------------------------
