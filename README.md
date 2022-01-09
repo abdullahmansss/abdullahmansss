@@ -30,7 +30,8 @@ Medicalempire.com Provides you a reliable shopping experience in one place with 
 <p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><br />
 <!-- - android : https://play.google.com/store/apps/details?id=com.medicalempire.medical
 - ios : https://apps.apple.com/us/app/medical-empire/id1465106135 -->
-----------------------------------------------------
+<hr>
+
 ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
