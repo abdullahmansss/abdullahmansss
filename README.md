@@ -34,6 +34,14 @@ Zey
 Askme
 - anroid : https://play.google.com/store/apps/details?id=com.askme.application
 - ios : https://apps.apple.com/eg/app/ask-me-application/id1542559413 
+----------------------------------------------------
+Modarsa
+- android : https://play.google.com/store/apps/details?id=softagi.ss.sc
+- ios : https://apps.apple.com/eg/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%D8%A9/id1521184770 
+----------------------------------------------------
+Children
+- android : https://play.google.com/store/apps/details?id=org.mdarsa.kids
+- ios : https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013
 <!--
 **abdullahmansss/abdullahmansss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
