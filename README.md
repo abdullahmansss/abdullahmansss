@@ -7,7 +7,7 @@
 ----------------------------------------------------
 ### Udemy
 - account : https://www.udemy.com/user/abdullah-mansour-3
-- flutter course : https://www.udemy.com/course/complete-flutter-arabic
+- flutter course [in arabic] : https://www.udemy.com/course/complete-flutter-arabic
 ----------------------------------------------------
 ### Contact with me on
 
