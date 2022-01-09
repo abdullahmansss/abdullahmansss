@@ -11,6 +11,9 @@
 ----------------------------------------------------
 ### Contact with me on
 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
 - whatsApp for bussines : http://Wa.me/201028205960
 - business email : abdullah@mansouracademy.net
 - personal email : abdullah.mansour97@gmail.com
