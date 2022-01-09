@@ -1,5 +1,10 @@
 ### Hi there, I'm Abdullah Mansour 👋:heart:
 
+- IT Entrepreneur
+- Specialist Software Engineer
+- Software Instructor
+- More than 40k student around the world
+
 <!--
 **abdullahmansss/abdullahmansss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
