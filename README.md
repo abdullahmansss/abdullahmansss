@@ -24,7 +24,7 @@ Medical Empire
 - ios : https://apps.apple.com/us/app/medical-empire/id1465106135
 ----------------------------------------------------
 ### Fosha
-Fosha - فسحة is your go-to app for all fun things to do in Egypt.
+Fosha - فسحة is your go-to app for all fun things to do in Egypt.\n
 Discover trips, activities & events created for you by passionate locals.
 - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499
