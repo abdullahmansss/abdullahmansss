@@ -105,31 +105,48 @@ Kermalk is the first smart rewards platform in Saudi Arabia that offers you inst
 Hey there, fashion enthusiasts! Zey App is the new way to shop your favorite medical brands in a very smooth way! Get your hands first on the latest collections from 200+ products like Scrubs, Lab Coats, Accessories, and more.<br />
 Shop on-the-go, on-the-run, on-the-move, when you download our app and have the latest trends in medical clothing at your fingertips!<br />
 
-- android : https://play.google.com/store/apps/details?id=com.zeymc.zeymc
+<p><a href="https://play.google.com/store/apps/details?id=com.zeymc.zeymc" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - android : https://play.google.com/store/apps/details?id=com.zeymc.zeymc
 - ios : https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746 
-----------------------------------------------------
+---------------------------------------------------- -->
 ### Askme
 
 Ask Me is an official application of Ask Me WordPress Themes on Envato Marketplace.<br />
 
-- anroid : https://play.google.com/store/apps/details?id=com.askme.application
+
+<p><a href="https://play.google.com/store/apps/details?id=com.askme.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/ask-me-application/id1542559413" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - anroid : https://play.google.com/store/apps/details?id=com.askme.application
 - ios : https://apps.apple.com/eg/app/ask-me-application/id1542559413 
-----------------------------------------------------
+---------------------------------------------------- -->
 ### Modarsa
 
 The Madrasa system is a service that allows learning forensic science in an innovative way that aims to benefit from scholars ’lessons and convert them into continuous educational courses while providing supportive options, through a set of services provided on the lesson page.<br />
 
-- android : https://play.google.com/store/apps/details?id=softagi.ss.sc
+<p><a href="https://play.google.com/store/apps/details?id=softagi.ss.sc" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%D8%A9/id1521184770" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - android : https://play.google.com/store/apps/details?id=softagi.ss.sc
 - ios : https://apps.apple.com/eg/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%D8%A9/id1521184770 
-----------------------------------------------------
+---------------------------------------------------- -->
 ### Children
 
 The standardization platform is: an electronic platform concerned with publishing the greatest duty that God has commanded us, which is to standardize it.<br />
 And implanting it in the hearts of Muslims and calling them to achieve it, addresses the various Sunni stages, starting from
 Childhood and for young people as well as the elderly of all levels of education.<br />
 
-- android : https://play.google.com/store/apps/details?id=org.mdarsa.kids
-- ios : https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013
+<p><a href="https://play.google.com/store/apps/details?id=org.mdarsa.kids" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - android : https://play.google.com/store/apps/details?id=org.mdarsa.kids
+- ios : https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013 -->
 <!--
 **abdullahmansss/abdullahmansss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
