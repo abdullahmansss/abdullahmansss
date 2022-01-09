@@ -4,11 +4,13 @@
 - Specialist Software Engineer
 - Software Instructor
 - More than 40k student around the world
-----------------------------------------------------
+<hr>
+
 <h1> Udemy </h1>
 - account : https://www.udemy.com/user/abdullah-mansour-3
 - flutter course [in arabic] : https://www.udemy.com/course/complete-flutter-arabic
-----------------------------------------------------
+<hr>
+
 <h1> Contact with me on </h1>
 
 <!-- <h3>Where to find me</h3>
@@ -21,7 +23,8 @@
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
 - youtube channel : https://www.youtube.com/AbdullahMansourAli
-----------------------------------------------------
+<hr>
+
 <h1> Samples from my projects </h1>
 
 ### Medical Empire
