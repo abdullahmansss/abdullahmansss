@@ -1,4 +1,4 @@
-<h6> Hi there, I'm Abdullah Mansour 👋:heart: </h6>
+<h2> Hi there, I'm Abdullah Mansour 👋:heart: </h1>
 
 - IT Entrepreneur
 - Specialist Software Engineer
