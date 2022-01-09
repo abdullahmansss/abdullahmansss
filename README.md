@@ -5,7 +5,7 @@
 - Software Instructor
 - More than 40k student around the world
 ----------------------------------------------------
-### Udemy :
+### Udemy
 - account : https://www.udemy.com/user/abdullah-mansour-3
 - flutter course : https://www.udemy.com/course/complete-flutter-arabic
 ----------------------------------------------------
