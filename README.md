@@ -5,7 +5,7 @@
 - IT Entrepreneur
 - Technical Project Manager
 - Software Instructor
-- More than 40k student around the world
+- More than 45k student around the world
 <hr>
 
 <h2> Udemy </h2>
