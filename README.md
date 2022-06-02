@@ -38,13 +38,6 @@
 
 <h2> Samples from my projects </h2>
 
-### Medical Empire
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
 ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
@@ -86,6 +79,13 @@ AppBear is a News and Social Network Application.<br />
 Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=app.ask.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/discy/id1535374585" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Medical Empire
+Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
+Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
+<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
