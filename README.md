@@ -3,7 +3,7 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - IT Entrepreneur
-- Technical Project Manager
+- Mobile Team Lead
 - Software Instructor
 - More than 45k student around the world
 <hr>
