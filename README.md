@@ -38,6 +38,13 @@
 
 <h2> Samples from my projects </h2>
 
+### Medical Empire
+Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
+Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
+<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
@@ -47,6 +54,26 @@ Discover trips, activities & events created for you by passionate locals.<br />
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
+<hr>
+
+### Kermalk
+
+Kermalk is the first smart rewards platform in Saudi Arabia that offers you instant rewards with every visit to your favorite places. And as we greatly appreciate your visit, the sooner your return, the better offers you will get!<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.intcore.kermalk.android" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - android : https://play.google.com/store/apps/details?id=com.intcore.kermalk.android
+- ios : https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865 
+---------------------------------------------------- -->
+### Zey
+
+Hey there, fashion enthusiasts! Zey App is the new way to shop your favorite medical brands in a very smooth way! Get your hands first on the latest collections from 200+ products like Scrubs, Lab Coats, Accessories, and more.<br />
+Shop on-the-go, on-the-run, on-the-move, when you download our app and have the latest trends in medical clothing at your fingertips!<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.zeymc.zeymc" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 <hr>
 
 ### Zadcall
@@ -82,13 +109,6 @@ Discy is an official application of Discy WordPress Themes on Envato Marketplace
 
 <hr>
 
-### Medical Empire
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
 <!-- - android : https://play.google.com/store/apps/details?id=app.ask.application
 - ios : https://apps.apple.com/eg/app/discy/id1535374585 
 ---------------------------------------------------- -->
@@ -103,25 +123,6 @@ All the tools you need to build a successful store, own a professional store wit
 <!-- - android : https://play.google.com/store/apps/details?id=com.dashop.app
 - ios : https://apps.apple.com/eg/app/dashop/id1564735827
 ---------------------------------------------------- -->
-### Kermalk
-
-Kermalk is the first smart rewards platform in Saudi Arabia that offers you instant rewards with every visit to your favorite places. And as we greatly appreciate your visit, the sooner your return, the better offers you will get!<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.intcore.kermalk.android" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.intcore.kermalk.android
-- ios : https://apps.apple.com/us/app/kermalk-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id1496665865 
----------------------------------------------------- -->
-### Zey
-
-Hey there, fashion enthusiasts! Zey App is the new way to shop your favorite medical brands in a very smooth way! Get your hands first on the latest collections from 200+ products like Scrubs, Lab Coats, Accessories, and more.<br />
-Shop on-the-go, on-the-run, on-the-move, when you download our app and have the latest trends in medical clothing at your fingertips!<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.zeymc.zeymc" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.zeymc.zeymc
 - ios : https://apps.apple.com/us/app/zey-%D8%B2%D9%8A/id1528249746 
