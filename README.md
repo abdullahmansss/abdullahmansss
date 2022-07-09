@@ -76,6 +76,14 @@ Shop on-the-go, on-the-run, on-the-move, when you download our app and have the 
 
 <hr>
 
+### AppBear
+
+AppBear is a News and Social Network Application.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=io.appbear.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/appbear/id1548685005" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 ### Zadcall
 
 Zadcall help you get in touch with experts in many fields through voice calls or video calls.<br />
@@ -90,13 +98,6 @@ Zadcall allows you to call experts directly through the numbers they have listed
 <!-- - android : https://play.google.com/store/apps/details?id=com.zadcall.app
 - ios : https://apps.apple.com/app/id1525329429 
 ---------------------------------------------------- -->
-### AppBear
-
-AppBear is a News and Social Network Application.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=io.appbear.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/appbear/id1548685005" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
 
 <!-- - android : https://play.google.com/store/apps/details?id=io.appbear.application
 - ios : https://apps.apple.com/eg/app/appbear/id1548685005
