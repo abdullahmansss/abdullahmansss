@@ -5,7 +5,7 @@
 - IT Entrepreneur
 - Front End Lead
 - Software Instructor
-- More than 45k student around the world
+- More than 50k student around the world
 <hr>
 
 <h2> Udemy </h2>
