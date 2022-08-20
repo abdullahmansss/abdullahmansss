@@ -38,12 +38,53 @@
 
 <h2> Samples from my projects </h2>
 
-### Medical Empire
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+### Jameel
+Jameel (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
+<p><a href="https://play.google.com/store/apps/details?id=jameel.dmcc.client" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/jameel-salon-at-home/id1586524531" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
+
+
+### Otlaat
+When you are ready to travel, the Otalat App is your best tool  for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers
+
+Book in more than 900,000 hotels and apartments at the lowest price in more than 200 countries.
+<p><a href="https://play.google.com/store/apps/details?id=hotels.otlaat.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%B9%D8%B7%D9%84%D8%A7%D8%AA/id1579487881" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Turbo
+نوفر خدمة شحن محلية سهلة وسريعة باستخدام تطبيقنا الذى يربط العميل مباشرة بالكابتن والفرع الذى معه الطرد ويمكن من خلال التطبيق طلب الشحنات والمهمات ومتابعة حالات الطرود بشكل لحظى عن طريق الاشعارات المرسلة حين تسليم الطرد او تأجيله او ارتجاعه.
+<p><a href="https://play.google.com/store/apps/details?id=turbo.group.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/turbo-eg/id1600431565" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Zadcall
+
+Zadcall help you get in touch with experts in many fields through voice calls or video calls.<br />
+All you have to do is to download Zadcall App and call the expert you need directly.<br />
+You don’t have to put your name in waiting lists and waste time in waiting rooms for you to get the professional help you need.<br />
+Zadcall allows you to call experts directly through the numbers they have listed in our app.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.zadcall.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1525329429" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+<!-- - android : https://play.google.com/store/apps/details?id=com.zadcall.app
+- ios : https://apps.apple.com/app/id1525329429 
+---------------------------------------------------- -->
+
+<!-- - android : https://play.google.com/store/apps/details?id=io.appbear.application
+- ios : https://apps.apple.com/eg/app/appbear/id1548685005
+---------------------------------------------------- -->
+### Discy
+
+Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=app.ask.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/discy/id1535374585" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 
 ### Fosha
 
@@ -54,6 +95,13 @@ Discover trips, activities & events created for you by passionate locals.<br />
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
+<hr>
+
+### Medical Empire
+Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
+Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
+<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 <hr>
 
 ### Kermalk
@@ -81,32 +129,6 @@ Shop on-the-go, on-the-run, on-the-move, when you download our app and have the 
 AppBear is a News and Social Network Application.<br />
 
 <p><a href="https://play.google.com/store/apps/details?id=io.appbear.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/appbear/id1548685005" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-### Zadcall
-
-Zadcall help you get in touch with experts in many fields through voice calls or video calls.<br />
-All you have to do is to download Zadcall App and call the expert you need directly.<br />
-You don’t have to put your name in waiting lists and waste time in waiting rooms for you to get the professional help you need.<br />
-Zadcall allows you to call experts directly through the numbers they have listed in our app.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.zadcall.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1525329429" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
-<hr>
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.zadcall.app
-- ios : https://apps.apple.com/app/id1525329429 
----------------------------------------------------- -->
-
-<!-- - android : https://play.google.com/store/apps/details?id=io.appbear.application
-- ios : https://apps.apple.com/eg/app/appbear/id1548685005
----------------------------------------------------- -->
-### Discy
-
-Discy is an official application of Discy WordPress Themes on Envato Marketplace.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=app.ask.application" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/discy/id1535374585" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
