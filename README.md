@@ -44,6 +44,16 @@ Jameel (Salon at Home and Beauty Services) helps you discover the best beauty pr
 
 <hr>
 
+### Tekram
+Tekram encompasses everything good about cleaning. We deliver the highest-quality cleaning service to our clients using skilled professionals who are versatile and adept in handling any household task. This has made it possible for us to provide disparate services like residential cleaning services.
+
+We are here to solve all your cleaning issues. We take up this responsibility gladly, giving you time to focus on better things in your life. We provide the highest-class cleaning service in Dubai, giving you nothing short of unmatched quality service.
+<p>
+
+<a href="https://apps.apple.com/us/app/tekram-home-cleaning-service/id1642682373" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 
 ### Otlaat
 When you are ready to travel, the Otalat App is your best tool  for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers
