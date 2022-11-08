@@ -63,11 +63,11 @@ Book in more than 900,000 hotels and apartments at the lowest price in more than
 
 <hr>
 
-### Turbo
+<!-- ### Turbo
 نوفر خدمة شحن محلية سهلة وسريعة باستخدام تطبيقنا الذى يربط العميل مباشرة بالكابتن والفرع الذى معه الطرد ويمكن من خلال التطبيق طلب الشحنات والمهمات ومتابعة حالات الطرود بشكل لحظى عن طريق الاشعارات المرسلة حين تسليم الطرد او تأجيله او ارتجاعه.
 <p><a href="https://play.google.com/store/apps/details?id=turbo.group.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/turbo-eg/id1600431565" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<hr>
+<hr> -->
 
 ### Zadcall
 
