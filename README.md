@@ -3,7 +3,7 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - IT Entrepreneur
-- Front End Lead
+- Lead of Engineers
 - Software Instructor
 - More than 50k student around the world
 <hr>
