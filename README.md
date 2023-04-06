@@ -19,7 +19,8 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- business email : abdullah@mansouracademy.net
+- business email [1] : abdullah@mansouracademy.net
+- business email [2] : abdullah.mansour@helpooapp.com
 - personal email : abdullah.mansour97@gmail.com
 
 
