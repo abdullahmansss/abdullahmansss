@@ -3,9 +3,9 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - IT Entrepreneur
-- Lead of Engineers
+- CTO at Helpoo
 - Software Instructor
-- More than 50k student around the world
+- More than 60k student around the world
 <hr>
 
 <h2> Udemy </h2>
