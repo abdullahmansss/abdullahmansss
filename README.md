@@ -67,7 +67,7 @@
 احرص علي تسجيل بياناتك وبيانات سيارتك الان، توفيرا للوقت عند حاجاتك العاجلة للخدمة عند لحظة ما.
 
 الشركة مقيدة بالهيئة العامة للرقابة المالية برقم ٨٤ بقرار رقم ١٥٧٨ لسنة ٢٠٢١
-<p><a href="https://play.google.com/store/apps/details?id=com.helpoo.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/jameel-salon-at-home/id1586524531](https://apps.apple.com/us/app/helpoo/id1627316561)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.helpoo.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/helpoo/id1627316561" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
@@ -89,6 +89,13 @@ We are here to solve all your cleaning issues. We take up this responsibility gl
 
 <hr>
 
+### Habel | حبل
+
+تطبيق حبل هو منصة عمل حر يربط ما بين مقدمين الخدمات او المشاريع (المستقلين) والباحثين عن الخدمات او أصحاب المشاريع (العميل) من افراد وممثلين مؤسسات، يتميز التطبيق بوجود عدد كبير من المهارات التي تتيح لأكبر عدد من المستقلين الاستفادة والعمل، كما تشمل مجالات اختصاص عديدة. يوفر التطبيق للمستقل والعميل بيئة عمل متكاملة وخصائص أساسية مثل: إضافة المشروع، تقديم عروض للمشروع، مراجعة العروض المقدمة، التبليغ عن المشروع، تسليم المشروع و التقييم، نظام مدفوعات آمن ويضمن حقوق الطرفين. تتمثل مساهمة التطبيق في بناء منصة سهلة الاستخدام، متعددة الوظائف والقوائم ملائمة لجميع الاعمار والفئات.
+
+<p><a href="https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ### Otlaat
 When you are ready to travel, the Otalat App is your best tool  for finding and booking the very best deals on any kind of accommodation, anywhere in the world. Download the app now and enjoy discounts and other exclusive offers
