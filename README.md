@@ -82,7 +82,7 @@ We are here to solve all your cleaning issues. We take up this responsibility gl
 
 تطبيق حبل هو منصة عمل حر يربط ما بين مقدمين الخدمات او المشاريع (المستقلين) والباحثين عن الخدمات او أصحاب المشاريع (العميل) من افراد وممثلين مؤسسات، يتميز التطبيق بوجود عدد كبير من المهارات التي تتيح لأكبر عدد من المستقلين الاستفادة والعمل، كما تشمل مجالات اختصاص عديدة. يوفر التطبيق للمستقل والعميل بيئة عمل متكاملة وخصائص أساسية مثل: إضافة المشروع، تقديم عروض للمشروع، مراجعة العروض المقدمة، التبليغ عن المشروع، تسليم المشروع و التقييم، نظام مدفوعات آمن ويضمن حقوق الطرفين. تتمثل مساهمة التطبيق في بناء منصة سهلة الاستخدام، متعددة الوظائف والقوائم ملائمة لجميع الاعمار والفئات.
 
-<p><a href="https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p> <a href="https://play.google.com/store/apps/details?id=unicode.habel.live" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/habel-%D8%AD%D8%A8%D9%84/id1671346670" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
