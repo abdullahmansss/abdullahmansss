@@ -3,7 +3,6 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 - IT Entrepreneur
-- Chief Technology Officer at Helpoo
 - Software Instructor
 - More than 60k student around the world
 <hr>
@@ -39,6 +38,13 @@
 <hr>
 
 <h2> Samples from my projects </h2>
+
+### Sahseh | صحصح
+تطبيق صحصح يساعد المتسوق اونلاين في الحصول على الكوبون بأسرع وقت عن طريق استخدام محرك البحث او خاصية التصنيفات المتجددة مثل تطبيقات التوصيل، الأزياء، الأحذية، النظارات، العطور والجمال. إمكانية الوصول بطريقة سهلة إلى المتجر بعد نسخ الكوبون من خلال الضغط على رابط المتجر.
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.uae.coupons" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/sahseh-%D8%B5%D8%AD%D8%B5%D8%AD/id1461034917" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 ### Helpoo
 
